@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VPDMoney</string>
+    <string name="encryption_key">Encryption Key</string>
+    <string name="encryption_iv">Encryption IV</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="text_to_decrypt">Text to decrypt</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="text_to_encrypt">Text to encrypt</string>
+    <string name="decryption_key">Decryption Key</string>
+    <string name="decryption_iv">Decryption IV</string>
+
+    <string-array name="encryption_output_mode">
+        <item>Base64</item>
+        <item>Hex</item>
+    </string-array>
+</resources>
